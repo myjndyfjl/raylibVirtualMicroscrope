@@ -14,6 +14,10 @@ click this to know its whole history.
 https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd649643372db5479
 
 
+my development enviroment
+redpandaC++2.25.1 
+windows 10
+or lookthrough the vedio link above to find same code compile software installer in vedio discription below the vedio
 
 中文描述：
 使用Raylib 开发的 显微镜RPG游戏 并使用有用算法。
@@ -26,3 +30,8 @@ https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd64964337
 
 点击链接可了解开发完整历史。
 https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd649643372db5479
+
+我的开发环境
+小熊猫C++ 2.25.1
+windows 10
+或可以通过链接进入视频下方的简介获取相同代码编译器安装包
