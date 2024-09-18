@@ -19,6 +19,9 @@ redpandaC++2.25.1
 windows 10
 or lookthrough the vedio link above to find same code compile software installer in vedio discription below the vedio
 
+attention：
+Use  Discrete graphics card  with Power when running in laptop could get 50+ FPS
+
 中文描述：
 使用Raylib 开发的 显微镜RPG游戏 并使用有用算法。
 放大倍数 0.01 到 40。
@@ -35,3 +38,6 @@ https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd64964337
 小熊猫C++ 2.25.1
 windows 10
 或可以通过链接进入视频下方的简介获取相同代码编译器安装包
+
+注意：
+使用独显直连,并接通电源 才可调用GeForce之类的 GPU加速大地图加载 50FPS
