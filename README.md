@@ -16,8 +16,8 @@ https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd64964337
 
 
 中文描述：
-使用Raylib 开发的 显微镜RPG游戏 并使用有用算法
-放大倍数 0.01 到 40
+使用Raylib 开发的 显微镜RPG游戏 并使用有用算法\n
+放大倍数 0.01 到 40\n
 使用算法包括 快速排序 凸包算法二维极角排序 kruskal 算法 
 简单C11多线程 可视化递归洪水填充
 简单AABB碰撞检测
