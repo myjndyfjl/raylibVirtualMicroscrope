@@ -2,6 +2,7 @@
 English discript:
 
 
+
 use raylib to create virtual microscope RPG game with some useful algorithm.
 zoom 0.01 ~ 40.
 algorithm： quicksort camera.
@@ -15,6 +16,10 @@ https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd64964337
 
 
 my development enviroment
+
+develop version : raylib 4.5
+actually only use DrawTexturePro,Initwindow, drawText,Textfomat CLoseWindow raylib API,so there's no special version depending
+
 redpandaC++2.25.1 
 windows 10
 or lookthrough the vedio link above to find same code compile software installer in vedio discription below the vedio
@@ -35,6 +40,8 @@ Use  Discrete graphics card  with Power when running in laptop could get 50+ FPS
 https://www.bilibili.com/video/BV1EDthe7E7Q/?vd_source=6dd875bda9ddfb1fd649643372db5479
 
 我的开发环境
+raylib 4.5
+实际上只用到 DrawTexturePro,Initwindow, drawText,Textfomat CLoseWindow raylib 接口，所以没有特别的版本依赖
 小熊猫C++ 2.25.1
 windows 10
 或可以通过链接进入视频下方的简介获取相同代码编译器安装包
